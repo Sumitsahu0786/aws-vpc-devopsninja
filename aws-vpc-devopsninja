@@ -1,0 +1,16 @@
+aws-vpc-devopsninja/
+│
+├── README.md
+│
+├── architecture/
+│   └── aws-vpc-architecture.png
+│
+├── screenshots/
+│   ├── vpc-dashboard.png
+│   ├── subnets.png
+│   ├── internet-gateway.png
+│   ├── public-route-table.png
+│   └── private-route-table.png
+│
+└── docs/
+    └── project-details.md
