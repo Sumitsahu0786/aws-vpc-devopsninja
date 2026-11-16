@@ -74,6 +74,6 @@ Completed: VPC, subnets, Internet Gateway, and route table configuration.
 - Automate infrastructure using Terraform.
 
 ## Author
-Cloud & DevOps Learner
+Cloud & DevOps 
 
 **Learning by Doing | AWS Cloud | DevOps**
